@@ -1,1 +1,10 @@
+.app {
+  display: grid;
+  grid-template-columns: 1fr 1 fr;
+  margin-left: 5%;
+  justify-content: center;
+}
 
+.right {
+  margin-left: 15%;
+}

@@ -1,0 +1,10 @@
+.Products {
+  display: grid;
+  /* flex-wrap: wrap; */
+  grid-template-columns: 1fr 1fr;
+}
+
+img {
+  width: 45%;
+  height: auto;
+}
